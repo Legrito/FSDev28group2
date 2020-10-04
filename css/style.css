@@ -233,6 +233,16 @@ header {
 .quotes-container {
   display: flex;
   justify-content: space-between;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-right: 10px;
+}
+.main-quotes-container {
+  background-color: #daeafc;
+  padding-bottom: 20px;
+}
+.title-quotes-container {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 70px;
+  padding-top: 30px;
 }
